@@ -5,17 +5,17 @@
      margin: 0;
      padding: 0;
      font-family: 'Montserrat', sans-serif;
+     font-weight: 300;
  }
 
  body {
-    padding: 1% 5%;
     background-color: #ffffff;
  }
 
  /* Definição das classes gerais*/
  
  .container {
-    padding: 10px 10px;
+    padding: 0.5% 1%;
     display: flex;
  }
 
